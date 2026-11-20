@@ -1,0 +1,15 @@
+# Lean / Lake
+/lean/.lake/
+/lean/build/
+*.olean
+*.ilean
+*.trace
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+Desktop.ini
+.DS_Store

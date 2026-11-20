@@ -1,0 +1,11 @@
+name = "MathProof"
+version = "0.1.0"
+
+[[lean_lib]]
+name = "MathProof"
+
+# 需要 Mathlib 时取消下面三行注释。
+# 首次构建会下载数 GB 依赖，建议单独安排时间。
+# [[require]]
+# name = "mathlib"
+# scope = "leanprover-community"
